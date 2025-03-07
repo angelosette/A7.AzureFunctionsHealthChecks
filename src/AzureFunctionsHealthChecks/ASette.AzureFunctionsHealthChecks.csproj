@@ -7,7 +7,7 @@
     <Authors>angelosette</Authors>
     <Description>ASette.AzureFunctionsHealthChecks is a NuGet package that provides health check functionality for Azure Functions, similar to the UseHealthChecks middleware in ASP.NET Core. Easily integrate health checks into your Azure Functions applications to monitor and report the health status of your services.</Description>
     <PackageProjectUrl></PackageProjectUrl>
-    <RepositoryUrl>https://github.com/angelosette/A7.AzureFunctionsHealthChecks</RepositoryUrl>
+    <RepositoryUrl>https://github.com/angelosette/ASette.AzureFunctionsHealthChecks</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
