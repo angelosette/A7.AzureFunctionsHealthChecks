@@ -15,7 +15,7 @@
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Sdk" Version="2.0.1" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AzureFunctionsHealthChecks\AzureFunctionsHealthChecks.csproj" />
+    <ProjectReference Include="..\AzureFunctionsHealthChecks\A7.AzureFunctionsHealthChecks.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">

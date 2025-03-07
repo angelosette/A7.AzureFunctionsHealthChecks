@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionsHealthChecks", "AzureFunctionsHealthChecks\AzureFunctionsHealthChecks.csproj", "{035EB9B8-4DAC-4881-9E97-84E539128982}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A7.AzureFunctionsHealthChecks", "AzureFunctionsHealthChecks\A7.AzureFunctionsHealthChecks.csproj", "{035EB9B8-4DAC-4881-9E97-84E539128982}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleFunction", "sampleFunction\sampleFunction.csproj", "{9ABD24D1-A191-B4D7-EC32-7E8F320ED65A}"
 EndProject
