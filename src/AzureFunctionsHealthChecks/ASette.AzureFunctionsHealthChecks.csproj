@@ -5,10 +5,23 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>angelosette</Authors>
-    <Description>A7.AzureFunctionsHealthChecks is a NuGet package that provides health check functionality for Azure Functions, similar to the UseHealthChecks middleware in ASP.NET Core. Easily integrate health checks into your Azure Functions applications to monitor and report the health status of your services.</Description>
+    <Description>ASette.AzureFunctionsHealthChecks is a NuGet package that provides health check functionality for Azure Functions, similar to the UseHealthChecks middleware in ASP.NET Core. Easily integrate health checks into your Azure Functions applications to monitor and report the health status of your services.</Description>
     <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl>https://github.com/angelosette/A7.AzureFunctionsHealthChecks</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.3.0" />
